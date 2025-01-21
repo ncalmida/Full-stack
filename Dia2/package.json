@@ -1,0 +1,15 @@
+{
+  "name": "dia2",
+  "version": "1.0.0",
+  "main": "e1.js",
+  "scripts": {
+    "start": "node e1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Ejercicios",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
